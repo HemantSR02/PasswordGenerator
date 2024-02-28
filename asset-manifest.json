@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HemantSR02/PasswordGenerator/static/css/main.06eac0c5.css",
+    "main.js": "/HemantSR02/PasswordGenerator/static/js/main.fde5791a.js",
+    "static/js/453.2a7d545f.chunk.js": "/HemantSR02/PasswordGenerator/static/js/453.2a7d545f.chunk.js",
+    "index.html": "/HemantSR02/PasswordGenerator/index.html",
+    "main.06eac0c5.css.map": "/HemantSR02/PasswordGenerator/static/css/main.06eac0c5.css.map",
+    "main.fde5791a.js.map": "/HemantSR02/PasswordGenerator/static/js/main.fde5791a.js.map",
+    "453.2a7d545f.chunk.js.map": "/HemantSR02/PasswordGenerator/static/js/453.2a7d545f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06eac0c5.css",
+    "static/js/main.fde5791a.js"
+  ]
+}
