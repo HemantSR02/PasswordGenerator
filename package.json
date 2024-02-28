@@ -1,7 +1,7 @@
 {
   "name": "passwordgenerator",
   "version": "0.1.0",
-  "homepage":"https://github.com/HemantSR02/PasswordGenerator",
+  "homepage":"https://hemantsr02.github.io/PasswordGenerator",
   "description": "A simple password generator",
   "private": true,
   "dependencies": {
